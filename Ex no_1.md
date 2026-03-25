@@ -12,7 +12,7 @@ To write a program to initialize the value as 5.8 & display the same.
 5. Stop the program.
 
 ## Program:
-```
+```c
 #include <stdio.h>
 int main()
 {
